@@ -4,6 +4,8 @@ The Main.java file contain de main method
 
 uses
 
+        *create a new object
+        
         LecturaNumeros ls = new LecturaNumeros();
         
         int num;
